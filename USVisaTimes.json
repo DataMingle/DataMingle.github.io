@@ -684,9 +684,9 @@
     {
         "code": "P59",
         "value": "Dhahran",
-        "visitor": 199,
-        "student": 43,
-        "other": 16,
+        "visitor": 211,
+        "student": 38,
+        "other": 10,
         "unknown": 10,
         "lat": "26.28864",
         "country": "Saudi Arabia",
@@ -1036,10 +1036,10 @@
     {
         "code": "P89",
         "value": "Jeddah",
-        "visitor": 125,
+        "visitor": 127,
         "student": 37,
-        "other": 9,
-        "unknown": 125,
+        "other": 21,
+        "unknown": 127,
         "lat": "21.54238",
         "country": "Saudi Arabia",
         "lon": "39.19797"
