@@ -1,0 +1,1898 @@
+[
+    {
+        "code": "P142",
+        "value": "N'Djamena",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "abidjan",
+        "value": "Abidjan",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P2",
+        "value": "Abu Dhabi",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P3",
+        "value": "Abuja",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P4",
+        "value": "Accra",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "adana",
+        "value": "Adana",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P5",
+        "value": "Addis Ababa",
+        "visitor": 455,
+        "student": 275,
+        "other": 455,
+        "unknown": 2
+    },
+    {
+        "code": "P6",
+        "value": "Algiers",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P7",
+        "value": "Almaty",
+        "visitor": 385,
+        "student": 86,
+        "other": 2,
+        "unknown": 2
+    },
+    {
+        "code": "P8",
+        "value": "Amman",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 4
+    },
+    {
+        "code": "P9",
+        "value": "Amsterdam",
+        "visitor": 999,
+        "student": 190,
+        "other": 200,
+        "unknown": 5
+    },
+    {
+        "code": "P10",
+        "value": "Ankara",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P11",
+        "value": "Antananarivo",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P225",
+        "value": "Apia",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P12",
+        "value": "Ashgabat",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P13",
+        "value": "Asmara",
+        "visitor": 7,
+        "student": 7,
+        "other": 7,
+        "unknown": 2
+    },
+    {
+        "code": "P15",
+        "value": "Asuncion",
+        "visitor": 450,
+        "student": 42,
+        "other": 90,
+        "unknown": 7
+    },
+    {
+        "code": "athens",
+        "value": "Athens",
+        "visitor": 999,
+        "student": 81,
+        "other": 25,
+        "unknown": 81
+    },
+    {
+        "code": "P17",
+        "value": "Auckland",
+        "visitor": 38,
+        "student": 10,
+        "other": 38,
+        "unknown": 3
+    },
+    {
+        "code": "P226",
+        "value": "Baghdad",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P19",
+        "value": "Baku",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P20",
+        "value": "Bamako",
+        "visitor": 90,
+        "student": 90,
+        "other": 90,
+        "unknown": 90
+    },
+    {
+        "code": "P21",
+        "value": "Bandar Seri Begawan",
+        "visitor": 28,
+        "student": 28,
+        "other": 28,
+        "unknown": 2
+    },
+    {
+        "code": "P22",
+        "value": "Bangkok",
+        "visitor": 249,
+        "student": 160,
+        "other": 4,
+        "unknown": 4
+    },
+    {
+        "code": "banjul",
+        "value": "Banjul",
+        "visitor": 999,
+        "student": 45,
+        "other": 999,
+        "unknown": 3
+    },
+    {
+        "code": "barcelona",
+        "value": "Barcelona",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P24",
+        "value": "Beijing",
+        "visitor": 999,
+        "student": 3,
+        "other": 3,
+        "unknown": 4
+    },
+    {
+        "code": "P25",
+        "value": "Beirut",
+        "visitor": 313,
+        "student": 30,
+        "other": 8,
+        "unknown": 3
+    },
+    {
+        "code": "P26",
+        "value": "Belfast",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P27",
+        "value": "Belgrade",
+        "visitor": 999,
+        "student": 4,
+        "other": 11,
+        "unknown": 5
+    },
+    {
+        "code": "P28",
+        "value": "Belmopan",
+        "visitor": 80,
+        "student": 7,
+        "other": 70,
+        "unknown": 10
+    },
+    {
+        "code": "P29",
+        "value": "Berlin",
+        "visitor": 999,
+        "student": 8,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P30",
+        "value": "Bern",
+        "visitor": 999,
+        "student": 72,
+        "other": 999,
+        "unknown": 5
+    },
+    {
+        "code": "P31",
+        "value": "Bishkek",
+        "visitor": 999,
+        "student": 60,
+        "other": 999,
+        "unknown": 4
+    },
+    {
+        "code": "P32",
+        "value": "Bogota",
+        "visitor": 682,
+        "student": 7,
+        "other": 7,
+        "unknown": 2
+    },
+    {
+        "code": "P33",
+        "value": "Brasilia",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P34",
+        "value": "Bratislava",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P35",
+        "value": "Brazzaville",
+        "visitor": 145,
+        "student": 145,
+        "other": 145,
+        "unknown": 2
+    },
+    {
+        "code": "P36",
+        "value": "Bridgetown",
+        "visitor": 30,
+        "student": 8,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P37",
+        "value": "Brussels",
+        "visitor": 999,
+        "student": 90,
+        "other": 90,
+        "unknown": 3
+    },
+    {
+        "code": "P38",
+        "value": "Bucharest",
+        "visitor": 84,
+        "student": 14,
+        "other": 2,
+        "unknown": 2
+    },
+    {
+        "code": "P39",
+        "value": "Budapest",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P40",
+        "value": "Buenos Aires",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P41",
+        "value": "Bujumbura",
+        "visitor": 30,
+        "student": 7,
+        "other": 30,
+        "unknown": 2
+    },
+    {
+        "code": "P42",
+        "value": "Cairo",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P43",
+        "value": "Calgary",
+        "visitor": 372,
+        "student": 57,
+        "other": 196,
+        "unknown": 10
+    },
+    {
+        "code": "P44",
+        "value": "Cape Town",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P45",
+        "value": "Caracas",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P46",
+        "value": "Casablanca",
+        "visitor": 120,
+        "student": 28,
+        "other": 120,
+        "unknown": 3
+    },
+    {
+        "code": "P47",
+        "value": "Chengdu",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P48",
+        "value": "Chennai ( Madras)",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P49",
+        "value": "Chiang Mai",
+        "visitor": 350,
+        "student": 350,
+        "other": 350,
+        "unknown": 2
+    },
+    {
+        "code": "P50",
+        "value": "Chisinau",
+        "visitor": 999,
+        "student": 10,
+        "other": 10,
+        "unknown": 7
+    },
+    {
+        "code": "P51",
+        "value": "Ciudad Juarez",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P52",
+        "value": "Colombo",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 1
+    },
+    {
+        "code": "P53",
+        "value": "Conakry",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P54",
+        "value": "Copenhagen",
+        "visitor": 999,
+        "student": 99,
+        "other": 275,
+        "unknown": 3
+    },
+    {
+        "code": "P55",
+        "value": "Cotonou",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P223",
+        "value": "Curacao",
+        "visitor": 24,
+        "student": 24,
+        "other": 24,
+        "unknown": 24
+    },
+    {
+        "code": "P56",
+        "value": "Dakar",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P57",
+        "value": "Damascus",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P58",
+        "value": "Dar Es Salaam",
+        "visitor": 999,
+        "student": 80,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P59",
+        "value": "Dhahran",
+        "visitor": 199,
+        "student": 43,
+        "other": 16,
+        "unknown": 10
+    },
+    {
+        "code": "P60",
+        "value": "Dhaka",
+        "visitor": 150,
+        "student": 150,
+        "other": 150,
+        "unknown": 3
+    },
+    {
+        "code": "P227",
+        "value": "Dili",
+        "visitor": 1,
+        "student": 1,
+        "other": 1,
+        "unknown": 2
+    },
+    {
+        "code": "P61",
+        "value": "Djibouti",
+        "visitor": 20,
+        "student": 60,
+        "other": 60,
+        "unknown": 14
+    },
+    {
+        "code": "P62",
+        "value": "Doha",
+        "visitor": 80,
+        "student": 2,
+        "other": 2,
+        "unknown": 3
+    },
+    {
+        "code": "P63",
+        "value": "Dubai",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P64",
+        "value": "Dublin",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P65",
+        "value": "Durban",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P66",
+        "value": "Dushanbe",
+        "visitor": 28,
+        "student": 28,
+        "other": 28,
+        "unknown": 7
+    },
+    {
+        "code": "erbil",
+        "value": "Erbil",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P67",
+        "value": "Florence",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P68",
+        "value": "Frankfurt",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P69",
+        "value": "Freetown",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P70",
+        "value": "Gaborone",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P71",
+        "value": "Georgetown",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P72",
+        "value": "Guadalajara",
+        "visitor": 424,
+        "student": 1,
+        "other": 9,
+        "unknown": 2
+    },
+    {
+        "code": "P73",
+        "value": "Guangzhou",
+        "visitor": 999,
+        "student": 4,
+        "other": 4,
+        "unknown": 2
+    },
+    {
+        "code": "P74",
+        "value": "Guatemala City",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P75",
+        "value": "Guayaquil",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P76",
+        "value": "Halifax",
+        "visitor": 999,
+        "student": 181,
+        "other": 197,
+        "unknown": 999
+    },
+    {
+        "code": "P77",
+        "value": "Hamilton",
+        "visitor": 28,
+        "student": 21,
+        "other": 28,
+        "unknown": 7
+    },
+    {
+        "code": "P78",
+        "value": "Hanoi",
+        "visitor": 78,
+        "student": 3,
+        "other": 3,
+        "unknown": 1
+    },
+    {
+        "code": "P79",
+        "value": "Harare",
+        "visitor": 999,
+        "student": 60,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P80",
+        "value": "Havana",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P81",
+        "value": "Helsinki",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P82",
+        "value": "Hermosillo",
+        "visitor": 344,
+        "student": 1,
+        "other": 1,
+        "unknown": 2
+    },
+    {
+        "code": "P83",
+        "value": "Ho Chi Minh City",
+        "visitor": 116,
+        "student": 64,
+        "other": 29,
+        "unknown": 2
+    },
+    {
+        "code": "P84",
+        "value": "Hong Kong",
+        "visitor": 3,
+        "student": 2,
+        "other": 3,
+        "unknown": 2
+    },
+    {
+        "code": "P85",
+        "value": "Hyderabad",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P86",
+        "value": "Islamabad",
+        "visitor": 350,
+        "student": 31,
+        "other": 31,
+        "unknown": 2
+    },
+    {
+        "code": "P87",
+        "value": "Istanbul",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P88",
+        "value": "Jakarta",
+        "visitor": 120,
+        "student": 21,
+        "other": 5,
+        "unknown": 2
+    },
+    {
+        "code": "P89",
+        "value": "Jeddah",
+        "visitor": 125,
+        "student": 37,
+        "other": 9,
+        "unknown": 125
+    },
+    {
+        "code": "P90",
+        "value": "Jerusalem",
+        "visitor": 224,
+        "student": 21,
+        "other": 21,
+        "unknown": 3
+    },
+    {
+        "code": "P91",
+        "value": "Johannesburg",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P228",
+        "value": "Juba",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P229",
+        "value": "Kabul",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P93",
+        "value": "Kampala",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "kaohsiung",
+        "value": "Kaohsiung",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P94",
+        "value": "Karachi",
+        "visitor": 309,
+        "student": 8,
+        "other": 7,
+        "unknown": 4
+    },
+    {
+        "code": "P95",
+        "value": "Kathmandu",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P96",
+        "value": "Khartoum",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P97",
+        "value": "Kigali",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P98",
+        "value": "Kingston",
+        "visitor": 999,
+        "student": 1,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P99",
+        "value": "Kinshasa",
+        "visitor": 413,
+        "student": 221,
+        "other": 413,
+        "unknown": 2
+    },
+    {
+        "code": "P100",
+        "value": "Kolkata",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P101",
+        "value": "Kolonia",
+        "visitor": 3,
+        "student": 3,
+        "other": 3,
+        "unknown": 3
+    },
+    {
+        "code": "P102",
+        "value": "Koror",
+        "visitor": 4,
+        "student": 4,
+        "other": 4,
+        "unknown": 4
+    },
+    {
+        "code": "P103",
+        "value": "Krakow",
+        "visitor": 999,
+        "student": 17,
+        "other": 21,
+        "unknown": 2
+    },
+    {
+        "code": "P104",
+        "value": "Kuala Lumpur",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P105",
+        "value": "Kuwait",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P106",
+        "value": "Kyiv",
+        "visitor": 999,
+        "student": 12,
+        "other": 12,
+        "unknown": 5
+    },
+    {
+        "code": "P107",
+        "value": "La Paz",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P108",
+        "value": "Lagos",
+        "visitor": 369,
+        "student": 362,
+        "other": 11,
+        "unknown": 3
+    },
+    {
+        "code": "lahore",
+        "value": "Lahore",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P109",
+        "value": "Libreville",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P110",
+        "value": "Lilongwe",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P111",
+        "value": "Lima",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P112",
+        "value": "Lisbon",
+        "visitor": 60,
+        "student": 4,
+        "other": 28,
+        "unknown": 10
+    },
+    {
+        "code": "P113",
+        "value": "Ljubljana",
+        "visitor": 999,
+        "student": 9,
+        "other": 9,
+        "unknown": 1
+    },
+    {
+        "code": "lome",
+        "value": "Lome",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P115",
+        "value": "London",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P116",
+        "value": "Luanda",
+        "visitor": 35,
+        "student": 10,
+        "other": 7,
+        "unknown": 5
+    },
+    {
+        "code": "P117",
+        "value": "Lusaka",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P118",
+        "value": "Luxembourg",
+        "visitor": 999,
+        "student": 53,
+        "other": 999,
+        "unknown": 2
+    },
+    {
+        "code": "P119",
+        "value": "Madrid",
+        "visitor": 999,
+        "student": 92,
+        "other": 123,
+        "unknown": 1
+    },
+    {
+        "code": "P120",
+        "value": "Majuro",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P121",
+        "value": "Malabo",
+        "visitor": 75,
+        "student": 7,
+        "other": 75,
+        "unknown": 7
+    },
+    {
+        "code": "managua",
+        "value": "Managua",
+        "visitor": 999,
+        "student": 7,
+        "other": 10,
+        "unknown": 10
+    },
+    {
+        "code": "P123",
+        "value": "Manama",
+        "visitor": 56,
+        "student": 7,
+        "other": 7,
+        "unknown": 4
+    },
+    {
+        "code": "P124",
+        "value": "Manila",
+        "visitor": 405,
+        "student": 122,
+        "other": 18,
+        "unknown": 5
+    },
+    {
+        "code": "P125",
+        "value": "Maputo",
+        "visitor": 28,
+        "student": 28,
+        "other": 28,
+        "unknown": 3
+    },
+    {
+        "code": "marseille",
+        "value": "Marseille",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P126",
+        "value": "Maseru",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P127",
+        "value": "Matamoros",
+        "visitor": 205,
+        "student": 2,
+        "other": 2,
+        "unknown": 7
+    },
+    {
+        "code": "P128",
+        "value": "Mbabane",
+        "visitor": 1,
+        "student": 1,
+        "other": 1,
+        "unknown": 10
+    },
+    {
+        "code": "P129",
+        "value": "Melbourne",
+        "visitor": 101,
+        "student": 16,
+        "other": 17,
+        "unknown": 10
+    },
+    {
+        "code": "P130",
+        "value": "Merida",
+        "visitor": 434,
+        "student": 434,
+        "other": 1,
+        "unknown": 2
+    },
+    {
+        "code": "P131",
+        "value": "Mexico City",
+        "visitor": 999,
+        "student": 7,
+        "other": 7,
+        "unknown": 2
+    },
+    {
+        "code": "P132",
+        "value": "Milan",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 3
+    },
+    {
+        "code": "P133",
+        "value": "Minsk",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P134",
+        "value": "Monrovia",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P135",
+        "value": "Monterrey",
+        "visitor": 413,
+        "student": 1,
+        "other": 2,
+        "unknown": 2
+    },
+    {
+        "code": "P136",
+        "value": "Montevideo",
+        "visitor": 255,
+        "student": 29,
+        "other": 10,
+        "unknown": 3
+    },
+    {
+        "code": "P137",
+        "value": "Montreal",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P138",
+        "value": "Moscow",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P139",
+        "value": "Mumbai (Bombay)",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P140",
+        "value": "Munich",
+        "visitor": 999,
+        "student": 9,
+        "other": 999,
+        "unknown": 1
+    },
+    {
+        "code": "P141",
+        "value": "Muscat",
+        "visitor": 16,
+        "student": 16,
+        "other": 16,
+        "unknown": 5
+    },
+    {
+        "code": "P142",
+        "value": "N`Djamena",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P143",
+        "value": "Naha",
+        "visitor": 999,
+        "student": 10,
+        "other": 999,
+        "unknown": 5
+    },
+    {
+        "code": "P144",
+        "value": "Nairobi",
+        "visitor": 999,
+        "student": 267,
+        "other": 999,
+        "unknown": 2
+    },
+    {
+        "code": "P145",
+        "value": "Naples",
+        "visitor": 113,
+        "student": 63,
+        "other": 113,
+        "unknown": 10
+    },
+    {
+        "code": "P146",
+        "value": "Nassau",
+        "visitor": 280,
+        "student": 28,
+        "other": 280,
+        "unknown": 8
+    },
+    {
+        "code": "P147",
+        "value": "New Delhi",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P148",
+        "value": "Niamey",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P149",
+        "value": "Nicosia",
+        "visitor": 100,
+        "student": 7,
+        "other": 100,
+        "unknown": 7
+    },
+    {
+        "code": "P150",
+        "value": "Nogales",
+        "visitor": 387,
+        "student": 3,
+        "other": 7,
+        "unknown": 2
+    },
+    {
+        "code": "P151",
+        "value": "Nouakchott",
+        "visitor": 50,
+        "student": 50,
+        "other": 50,
+        "unknown": 50
+    },
+    {
+        "code": "P152",
+        "value": "Nuevo Laredo",
+        "visitor": 284,
+        "student": 2,
+        "other": 2,
+        "unknown": 1
+    },
+    {
+        "code": "nur-sultan",
+        "value": "Nur-Sultan",
+        "visitor": 180,
+        "student": 60,
+        "other": 30,
+        "unknown": 7
+    },
+    {
+        "code": "P153",
+        "value": "Osaka-Kobe",
+        "visitor": 20,
+        "student": 20,
+        "other": 20,
+        "unknown": 3
+    },
+    {
+        "code": "P154",
+        "value": "Oslo",
+        "visitor": 999,
+        "student": 7,
+        "other": 7,
+        "unknown": 10
+    },
+    {
+        "code": "P155",
+        "value": "Ottawa",
+        "visitor": 999,
+        "student": 90,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P156",
+        "value": "Ouagadougou",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P157",
+        "value": "Panama City",
+        "visitor": 999,
+        "student": 180,
+        "other": 180,
+        "unknown": 180
+    },
+    {
+        "code": "P158",
+        "value": "Paramaribo",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P159",
+        "value": "Paris",
+        "visitor": 300,
+        "student": 300,
+        "other": 300,
+        "unknown": 2
+    },
+    {
+        "code": "P160",
+        "value": "Perth",
+        "visitor": 2,
+        "student": 2,
+        "other": 2,
+        "unknown": 10
+    },
+    {
+        "code": "P161",
+        "value": "Phnom Penh",
+        "visitor": 23,
+        "student": 15,
+        "other": 23,
+        "unknown": 4
+    },
+    {
+        "code": "P162",
+        "value": "Podgorica",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P164",
+        "value": "Port Au Prince",
+        "visitor": 999,
+        "student": 5,
+        "other": 999,
+        "unknown": 1
+    },
+    {
+        "code": "P165",
+        "value": "Port Louis",
+        "visitor": 16,
+        "student": 16,
+        "other": 16,
+        "unknown": 8
+    },
+    {
+        "code": "P166",
+        "value": "Port Moresby",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P167",
+        "value": "Port Of Spain",
+        "visitor": 999,
+        "student": 10,
+        "other": 10,
+        "unknown": 10
+    },
+    {
+        "code": "porto_alegre",
+        "value": "Porto Alegre",
+        "visitor": 999,
+        "student": 1,
+        "other": 999,
+        "unknown": 10
+    },
+    {
+        "code": "P168",
+        "value": "Prague",
+        "visitor": 14,
+        "student": 7,
+        "other": 7,
+        "unknown": 2
+    },
+    {
+        "code": "P169",
+        "value": "Praia",
+        "visitor": 316,
+        "student": 316,
+        "other": 316,
+        "unknown": 30
+    },
+    {
+        "code": "P231",
+        "value": "Pristina",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P170",
+        "value": "Quebec",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P171",
+        "value": "Quito",
+        "visitor": 999,
+        "student": 3,
+        "other": 3,
+        "unknown": 2
+    },
+    {
+        "code": "P172",
+        "value": "Rangoon",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P173",
+        "value": "Recife",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P174",
+        "value": "Reykjavik",
+        "visitor": 999,
+        "student": 90,
+        "other": 90,
+        "unknown": 90
+    },
+    {
+        "code": "P175",
+        "value": "Riga",
+        "visitor": 999,
+        "student": 7,
+        "other": 999,
+        "unknown": 4
+    },
+    {
+        "code": "P230",
+        "value": "Rio De Janeiro",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P177",
+        "value": "Riyadh",
+        "visitor": 246,
+        "student": 45,
+        "other": 246,
+        "unknown": 5
+    },
+    {
+        "code": "P178",
+        "value": "Rome",
+        "visitor": 999,
+        "student": 51,
+        "other": 999,
+        "unknown": 5
+    },
+    {
+        "code": "P179",
+        "value": "San Jose",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P180",
+        "value": "San Salvador",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P181",
+        "value": "Sanaa",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P182",
+        "value": "Santiago",
+        "visitor": 999,
+        "student": 115,
+        "other": 73,
+        "unknown": 5
+    },
+    {
+        "code": "P183",
+        "value": "Santo Domingo",
+        "visitor": 999,
+        "student": 2,
+        "other": 43,
+        "unknown": 5
+    },
+    {
+        "code": "P184",
+        "value": "Sao Paulo",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P224",
+        "value": "Sapporo",
+        "visitor": 999,
+        "student": 15,
+        "other": 15,
+        "unknown": 15
+    },
+    {
+        "code": "P185",
+        "value": "Sarajevo",
+        "visitor": 999,
+        "student": 10,
+        "other": 20,
+        "unknown": 10
+    },
+    {
+        "code": "P186",
+        "value": "Seoul",
+        "visitor": 30,
+        "student": 15,
+        "other": 32,
+        "unknown": 2
+    },
+    {
+        "code": "P187",
+        "value": "Shanghai",
+        "visitor": 999,
+        "student": 2,
+        "other": 2,
+        "unknown": 10
+    },
+    {
+        "code": "P188",
+        "value": "Shenyang",
+        "visitor": 999,
+        "student": 3,
+        "other": 999,
+        "unknown": 7
+    },
+    {
+        "code": "P189",
+        "value": "Singapore",
+        "visitor": 71,
+        "student": 30,
+        "other": 31,
+        "unknown": 5
+    },
+    {
+        "code": "P190",
+        "value": "Skopje",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P191",
+        "value": "Sofia",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "st_georges",
+        "value": "St Georges",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P192",
+        "value": "St Petersburg",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P193",
+        "value": "Stockholm",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P194",
+        "value": "Surabaya",
+        "visitor": 100,
+        "student": 35,
+        "other": 35,
+        "unknown": 15
+    },
+    {
+        "code": "P195",
+        "value": "Suva",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P196",
+        "value": "Sydney",
+        "visitor": 176,
+        "student": 99,
+        "other": 176,
+        "unknown": 10
+    },
+    {
+        "code": "P197",
+        "value": "Taipei",
+        "visitor": 36,
+        "student": 32,
+        "other": 43,
+        "unknown": 2
+    },
+    {
+        "code": "P198",
+        "value": "Tallinn",
+        "visitor": 999,
+        "student": 30,
+        "other": 30,
+        "unknown": 4
+    },
+    {
+        "code": "P199",
+        "value": "Tashkent",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P200",
+        "value": "Tbilisi",
+        "visitor": 447,
+        "student": 132,
+        "other": 41,
+        "unknown": 3
+    },
+    {
+        "code": "P201",
+        "value": "Tegucigalpa",
+        "visitor": 492,
+        "student": 7,
+        "other": 3,
+        "unknown": 3
+    },
+    {
+        "code": "P202",
+        "value": "Tel Aviv",
+        "visitor": 391,
+        "student": 3,
+        "other": 3,
+        "unknown": 3
+    },
+    {
+        "code": "tijuana",
+        "value": "Tijuana",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P203",
+        "value": "Tijuana Tpf",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P204",
+        "value": "Tirana",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P205",
+        "value": "Tokyo",
+        "visitor": 999,
+        "student": 16,
+        "other": 30,
+        "unknown": 4
+    },
+    {
+        "code": "P206",
+        "value": "Toronto",
+        "visitor": 999,
+        "student": 38,
+        "other": 999,
+        "unknown": 5
+    },
+    {
+        "code": "P207",
+        "value": "Tripoli",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P208",
+        "value": "Tunis",
+        "visitor": 30,
+        "student": 10,
+        "other": 10,
+        "unknown": 7
+    },
+    {
+        "code": "P209",
+        "value": "Ulaanbaatar",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "usun-new_york",
+        "value": "Usun-New York",
+        "visitor": 7,
+        "student": 7,
+        "other": 7,
+        "unknown": 7
+    },
+    {
+        "code": "P210",
+        "value": "Valletta",
+        "visitor": 60,
+        "student": 45,
+        "other": 60,
+        "unknown": 7
+    },
+    {
+        "code": "P211",
+        "value": "Vancouver",
+        "visitor": 999,
+        "student": 56,
+        "other": 999,
+        "unknown": 3
+    },
+    {
+        "code": "P212",
+        "value": "Vienna",
+        "visitor": 999,
+        "student": 6,
+        "other": 999,
+        "unknown": 2
+    },
+    {
+        "code": "P213",
+        "value": "Vientiane",
+        "visitor": 6,
+        "student": 6,
+        "other": 6,
+        "unknown": 3
+    },
+    {
+        "code": "P214",
+        "value": "Vilnius",
+        "visitor": 999,
+        "student": 6,
+        "other": 60,
+        "unknown": 2
+    },
+    {
+        "code": "P215",
+        "value": "Vladivostok",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P216",
+        "value": "Warsaw",
+        "visitor": 999,
+        "student": 17,
+        "other": 10,
+        "unknown": 2
+    },
+    {
+        "code": "P217",
+        "value": "Windhoek",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P218",
+        "value": "Yaounde",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "yekaterinburg",
+        "value": "Yekaterinburg",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    },
+    {
+        "code": "P220",
+        "value": "Yerevan",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 14
+    },
+    {
+        "code": "P221",
+        "value": "Zagreb",
+        "visitor": 999,
+        "student": 999,
+        "other": 999,
+        "unknown": 999
+    }
+]

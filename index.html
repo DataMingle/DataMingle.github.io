@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.css">
+
+    <title>US Visa Processing Times</title>
+  </head>
+  <body>
+    <h1>US Visa Processing Times</h1>
+    <table
+        data-toggle="table"
+        data-url="USVisaTimes.json"
+        data-pagination="true"
+        data-search="true">
+        <thead>
+            <tr>
+            <th data-sortable="true" data-field="value">Name</th>
+            <th data-sortable="true" data-field="tourist">Visitor Visa (Days)</th>
+            <th data-sortable="true" data-field="student">Student/Exchange Visitor Visas</th>
+            <th data-sortable="true" data-field="other">All Other Nonimmigrant Visas</th>	
+            </tr>
+        </thead>
+    </table>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
+
+  </body>
+</html>
