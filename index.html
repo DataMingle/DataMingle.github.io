@@ -20,11 +20,8 @@
   </head>
   <body>
     <h1>US Visa Processing Times</h1>
-    <div id="toolbar" style="margin-bottom:-10px">
-      <div class="float-right search btn-group">
-        <input class="form-control search-input" type="search" placeholder="Search" autocomplete="off" style="width: 380px;">
-      </div>
-      <div class="">
+    <div id="toolbar">
+      <div>
           <span style="font-size:x-small">Data last updated on: 2021-08-01</span>
       </div>
     </div>
@@ -32,6 +29,7 @@
         data-toggle="table"
         data-toolbar="#toolbar"
         data-url="USVisaTimes.json"
+        data-search="true"
         data-sort-name="visitor" 
         data-sort-order="asc">
         <thead>
