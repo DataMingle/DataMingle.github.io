@@ -5,7 +5,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "12.10672",
+        "country": "Chad",
+        "lon": "15.0444"
     },
     {
         "code": "abidjan",
@@ -13,7 +16,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "5.30966",
+        "country": "Ivory Coast",
+        "lon": "-4.01266"
     },
     {
         "code": "P2",
@@ -21,7 +27,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "24.46667",
+        "country": "United Arab Emirates",
+        "lon": "54.36667"
     },
     {
         "code": "P3",
@@ -29,7 +38,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "9.05785",
+        "country": "Nigeria",
+        "lon": "7.49508"
     },
     {
         "code": "P4",
@@ -37,7 +49,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "5.55602",
+        "country": "Ghana",
+        "lon": "-0.1969"
     },
     {
         "code": "adana",
@@ -45,7 +60,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "37.00167",
+        "country": "Turkey",
+        "lon": "35.32889"
     },
     {
         "code": "P5",
@@ -53,7 +71,10 @@
         "visitor": 455,
         "student": 275,
         "other": 455,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "9.02497",
+        "country": "Ethiopia",
+        "lon": "38.74689"
     },
     {
         "code": "P6",
@@ -61,7 +82,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "36.73225",
+        "country": "Algeria",
+        "lon": "3.08746"
     },
     {
         "code": "P7",
@@ -69,7 +93,10 @@
         "visitor": 385,
         "student": 86,
         "other": 2,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "43.25667",
+        "country": "Kazakhstan",
+        "lon": "76.92861"
     },
     {
         "code": "P8",
@@ -77,7 +104,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "31.95522",
+        "country": "Jordan",
+        "lon": "35.94503"
     },
     {
         "code": "P9",
@@ -85,7 +115,10 @@
         "visitor": 999,
         "student": 190,
         "other": 200,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "52.37403",
+        "country": "Netherlands",
+        "lon": "4.88969"
     },
     {
         "code": "P10",
@@ -93,7 +126,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "39.91987",
+        "country": "Turkey",
+        "lon": "32.85427"
     },
     {
         "code": "P11",
@@ -101,7 +137,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-18.91368",
+        "country": "Madagascar",
+        "lon": "47.53613"
     },
     {
         "code": "P225",
@@ -109,7 +148,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-13.83333",
+        "country": "Samoa",
+        "lon": "-171.76666"
     },
     {
         "code": "P12",
@@ -117,7 +159,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "37.95",
+        "country": "Turkmenistan",
+        "lon": "58.38333"
     },
     {
         "code": "P13",
@@ -125,7 +170,10 @@
         "visitor": 7,
         "student": 7,
         "other": 7,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "15.33805",
+        "country": "Eritrea",
+        "lon": "38.93184"
     },
     {
         "code": "P15",
@@ -133,7 +181,10 @@
         "visitor": 450,
         "student": 42,
         "other": 90,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "9.97961",
+        "country": "Costa Rica",
+        "lon": "-84.17281"
     },
     {
         "code": "athens",
@@ -141,7 +192,10 @@
         "visitor": 999,
         "student": 81,
         "other": 25,
-        "unknown": 81
+        "unknown": 81,
+        "lat": "37.97945",
+        "country": "Greece",
+        "lon": "23.71622"
     },
     {
         "code": "P17",
@@ -149,7 +203,10 @@
         "visitor": 38,
         "student": 10,
         "other": 38,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "-36.84853",
+        "country": "New Zealand",
+        "lon": "174.76349"
     },
     {
         "code": "P226",
@@ -157,7 +214,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "33.34058",
+        "country": "Iraq",
+        "lon": "44.40088"
     },
     {
         "code": "P19",
@@ -165,7 +225,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "40.37767",
+        "country": "Azerbaijan",
+        "lon": "49.89201"
     },
     {
         "code": "P20",
@@ -173,7 +236,10 @@
         "visitor": 90,
         "student": 90,
         "other": 90,
-        "unknown": 90
+        "unknown": 90,
+        "lat": "12.65",
+        "country": "Mali",
+        "lon": "-8"
     },
     {
         "code": "P21",
@@ -181,7 +247,10 @@
         "visitor": 28,
         "student": 28,
         "other": 28,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "4.89035",
+        "country": "Brunei",
+        "lon": "114.94006"
     },
     {
         "code": "P22",
@@ -189,7 +258,10 @@
         "visitor": 249,
         "student": 160,
         "other": 4,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "13.75398",
+        "country": "Thailand",
+        "lon": "100.50144"
     },
     {
         "code": "banjul",
@@ -197,7 +269,10 @@
         "visitor": 999,
         "student": 45,
         "other": 999,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "13.45274",
+        "country": "Gambia",
+        "lon": "-16.57803"
     },
     {
         "code": "barcelona",
@@ -205,7 +280,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "41.38879",
+        "country": "Spain",
+        "lon": "2.15899"
     },
     {
         "code": "P24",
@@ -213,7 +291,10 @@
         "visitor": 999,
         "student": 3,
         "other": 3,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "39.9075",
+        "country": "China",
+        "lon": "116.39723"
     },
     {
         "code": "P25",
@@ -221,7 +302,10 @@
         "visitor": 313,
         "student": 30,
         "other": 8,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "33.89332",
+        "country": "Lebanon",
+        "lon": "35.50157"
     },
     {
         "code": "P26",
@@ -229,7 +313,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "46.08341",
+        "country": "Canada",
+        "lon": "-62.88197"
     },
     {
         "code": "P27",
@@ -237,7 +324,10 @@
         "visitor": 999,
         "student": 4,
         "other": 11,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "44.80401",
+        "country": "Serbia",
+        "lon": "20.46513"
     },
     {
         "code": "P28",
@@ -245,7 +335,10 @@
         "visitor": 80,
         "student": 7,
         "other": 70,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "17.25",
+        "country": "Belize",
+        "lon": "-88.76667"
     },
     {
         "code": "P29",
@@ -253,7 +346,10 @@
         "visitor": 999,
         "student": 8,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "52.52437",
+        "country": "Germany",
+        "lon": "13.41053"
     },
     {
         "code": "P30",
@@ -261,7 +357,10 @@
         "visitor": 999,
         "student": 72,
         "other": 999,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "46.94809",
+        "country": "Switzerland",
+        "lon": "7.44744"
     },
     {
         "code": "P31",
@@ -269,7 +368,10 @@
         "visitor": 999,
         "student": 60,
         "other": 999,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "42.87",
+        "country": "Kyrgyzstan",
+        "lon": "74.59"
     },
     {
         "code": "P32",
@@ -277,7 +379,10 @@
         "visitor": 682,
         "student": 7,
         "other": 7,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "40.87621",
+        "country": "United States",
+        "lon": "-74.02986"
     },
     {
         "code": "P33",
@@ -285,7 +390,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-15.77972",
+        "country": "Brazil",
+        "lon": "-47.92972"
     },
     {
         "code": "P34",
@@ -293,7 +401,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "48.14816",
+        "country": "Slovakia",
+        "lon": "17.10674"
     },
     {
         "code": "P35",
@@ -301,7 +412,10 @@
         "visitor": 145,
         "student": 145,
         "other": 145,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-4.26613",
+        "country": "Republic of the Congo",
+        "lon": "15.28318"
     },
     {
         "code": "P36",
@@ -309,7 +423,10 @@
         "visitor": 30,
         "student": 8,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-33.96242",
+        "country": "Australia",
+        "lon": "116.13598"
     },
     {
         "code": "P37",
@@ -317,7 +434,10 @@
         "visitor": 999,
         "student": 90,
         "other": 90,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "50.85045",
+        "country": "Belgium",
+        "lon": "4.34878"
     },
     {
         "code": "P38",
@@ -325,7 +445,10 @@
         "visitor": 84,
         "student": 14,
         "other": 2,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "44.43225",
+        "country": "Romania",
+        "lon": "26.10626"
     },
     {
         "code": "P39",
@@ -333,7 +456,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "47.49801",
+        "country": "Hungary",
+        "lon": "19.03991"
     },
     {
         "code": "P40",
@@ -341,7 +467,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-34.61315",
+        "country": "Argentina",
+        "lon": "-58.37723"
     },
     {
         "code": "P41",
@@ -349,7 +478,10 @@
         "visitor": 30,
         "student": 7,
         "other": 30,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-3.3822",
+        "country": "Burundi",
+        "lon": "29.3644"
     },
     {
         "code": "P42",
@@ -357,7 +489,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "30.06263",
+        "country": "Egypt",
+        "lon": "31.24967"
     },
     {
         "code": "P43",
@@ -365,7 +500,10 @@
         "visitor": 372,
         "student": 57,
         "other": 196,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "51.05011",
+        "country": "Canada",
+        "lon": "-114.08529"
     },
     {
         "code": "P44",
@@ -373,7 +511,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-33.92584",
+        "country": "South Africa",
+        "lon": "18.42322"
     },
     {
         "code": "P45",
@@ -381,7 +522,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "10.48801",
+        "country": "Venezuela",
+        "lon": "-66.87919"
     },
     {
         "code": "P46",
@@ -389,7 +533,10 @@
         "visitor": 120,
         "student": 28,
         "other": 120,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "33.58831",
+        "country": "Morocco",
+        "lon": "-7.61138"
     },
     {
         "code": "P47",
@@ -397,7 +544,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "30.66667",
+        "country": "China",
+        "lon": "104.06667"
     },
     {
         "code": "P48",
@@ -405,7 +555,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "13.0825",
+        "country": "India",
+        "lon": "80.275"
     },
     {
         "code": "P49",
@@ -413,7 +566,10 @@
         "visitor": 350,
         "student": 350,
         "other": 350,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "18.79038",
+        "country": "Thailand",
+        "lon": "98.98468"
     },
     {
         "code": "P50",
@@ -421,7 +577,10 @@
         "visitor": 999,
         "student": 10,
         "other": 10,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "47.00556",
+        "country": "Moldova",
+        "lon": "28.8575"
     },
     {
         "code": "P51",
@@ -429,7 +588,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "31.7386",
+        "country": "Mexico",
+        "lon": "-106.487"
     },
     {
         "code": "P52",
@@ -437,7 +599,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "-25.29167",
+        "country": "Brazil",
+        "lon": "-49.22417"
     },
     {
         "code": "P53",
@@ -445,7 +610,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "9.53795",
+        "country": "Guinea",
+        "lon": "-13.67729"
     },
     {
         "code": "P54",
@@ -453,7 +621,10 @@
         "visitor": 999,
         "student": 99,
         "other": 275,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "55.67594",
+        "country": "Denmark",
+        "lon": "12.56553"
     },
     {
         "code": "P55",
@@ -461,15 +632,21 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "6.36536",
+        "country": "Benin",
+        "lon": "2.41833"
     },
     {
         "code": "P223",
-        "value": "Curacao",
+        "value": "Willemstad",
         "visitor": 24,
         "student": 24,
         "other": 24,
-        "unknown": 24
+        "unknown": 24,
+        "lat": "12.108",
+        "country": "Curacao",
+        "lon": "-68.935"
     },
     {
         "code": "P56",
@@ -477,7 +654,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "14.6937",
+        "country": "Senegal",
+        "lon": "-17.44406"
     },
     {
         "code": "P57",
@@ -485,7 +665,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "33.5102",
+        "country": "Syria",
+        "lon": "36.29128"
     },
     {
         "code": "P58",
@@ -493,7 +676,10 @@
         "visitor": 999,
         "student": 80,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-6.8",
+        "country": "Tanzania",
+        "lon": "39.2833"
     },
     {
         "code": "P59",
@@ -501,7 +687,10 @@
         "visitor": 199,
         "student": 43,
         "other": 16,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "26.28864",
+        "country": "Saudi Arabia",
+        "lon": "50.11396"
     },
     {
         "code": "P60",
@@ -509,7 +698,10 @@
         "visitor": 150,
         "student": 150,
         "other": 150,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "23.7104",
+        "country": "Bangladesh",
+        "lon": "90.40744"
     },
     {
         "code": "P227",
@@ -517,7 +709,10 @@
         "visitor": 1,
         "student": 1,
         "other": 1,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-8.55861",
+        "country": "East Timor",
+        "lon": "125.57361"
     },
     {
         "code": "P61",
@@ -525,7 +720,10 @@
         "visitor": 20,
         "student": 60,
         "other": 60,
-        "unknown": 14
+        "unknown": 14,
+        "lat": "11.58901",
+        "country": "Djibouti",
+        "lon": "43.14503"
     },
     {
         "code": "P62",
@@ -533,7 +731,10 @@
         "visitor": 80,
         "student": 2,
         "other": 2,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "25.28545",
+        "country": "Qatar",
+        "lon": "51.53096"
     },
     {
         "code": "P63",
@@ -541,7 +742,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "25.0657",
+        "country": "United Arab Emirates",
+        "lon": "55.17128"
     },
     {
         "code": "P64",
@@ -549,7 +753,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "53.33306",
+        "country": "Ireland",
+        "lon": "-6.24889"
     },
     {
         "code": "P65",
@@ -557,7 +764,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-29.8579",
+        "country": "South Africa",
+        "lon": "31.0292"
     },
     {
         "code": "P66",
@@ -565,7 +775,10 @@
         "visitor": 28,
         "student": 28,
         "other": 28,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "38.53575",
+        "country": "Tajikistan",
+        "lon": "68.77905"
     },
     {
         "code": "erbil",
@@ -573,7 +786,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "36.18333",
+        "country": "Iraq",
+        "lon": "44.01193"
     },
     {
         "code": "P67",
@@ -581,7 +797,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "43.77925",
+        "country": "Italy",
+        "lon": "11.24626"
     },
     {
         "code": "P68",
@@ -589,7 +808,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "50.1136",
+        "lon": "8.6797",
+        "country": "Germany"
     },
     {
         "code": "P69",
@@ -597,7 +819,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "8.43194",
+        "country": "Sierra Leone",
+        "lon": "-13.28972"
     },
     {
         "code": "P70",
@@ -605,7 +830,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-24.65451",
+        "country": "Botswana",
+        "lon": "25.90859"
     },
     {
         "code": "P71",
@@ -613,7 +841,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "13.54039",
+        "country": "Gambia",
+        "lon": "-14.76374"
     },
     {
         "code": "P72",
@@ -621,7 +852,10 @@
         "visitor": 424,
         "student": 1,
         "other": 9,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "40.62862",
+        "country": "Spain",
+        "lon": "-3.16185"
     },
     {
         "code": "P73",
@@ -629,7 +863,10 @@
         "visitor": 999,
         "student": 4,
         "other": 4,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "23.11667",
+        "country": "China",
+        "lon": "113.25"
     },
     {
         "code": "P74",
@@ -637,7 +874,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "14.64072",
+        "country": "Guatemala",
+        "lon": "-90.51327"
     },
     {
         "code": "P75",
@@ -645,7 +885,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-2.19616",
+        "country": "Ecuador",
+        "lon": "-79.88621"
     },
     {
         "code": "P76",
@@ -653,7 +896,10 @@
         "visitor": 999,
         "student": 181,
         "other": 197,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "44.64533",
+        "country": "Canada",
+        "lon": "-63.57239"
     },
     {
         "code": "P77",
@@ -661,7 +907,10 @@
         "visitor": 28,
         "student": 21,
         "other": 28,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "-37.74425",
+        "country": "Australia",
+        "lon": "142.02202"
     },
     {
         "code": "P78",
@@ -669,7 +918,10 @@
         "visitor": 78,
         "student": 3,
         "other": 3,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "21.0245",
+        "country": "Vietnam",
+        "lon": "105.84117"
     },
     {
         "code": "P79",
@@ -677,7 +929,10 @@
         "visitor": 999,
         "student": 60,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-17.82772",
+        "country": "Zimbabwe",
+        "lon": "31.05337"
     },
     {
         "code": "P80",
@@ -685,7 +940,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "23.13302",
+        "country": "Cuba",
+        "lon": "-82.38304"
     },
     {
         "code": "P81",
@@ -693,7 +951,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "60.16952",
+        "country": "Finland",
+        "lon": "24.93545"
     },
     {
         "code": "P82",
@@ -701,7 +962,10 @@
         "visitor": 344,
         "student": 1,
         "other": 1,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "29.1026",
+        "country": "Mexico",
+        "lon": "-110.97732"
     },
     {
         "code": "P83",
@@ -709,7 +973,10 @@
         "visitor": 116,
         "student": 64,
         "other": 29,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "10.82302",
+        "country": "Vietnam",
+        "lon": "106.62965"
     },
     {
         "code": "P84",
@@ -717,7 +984,10 @@
         "visitor": 3,
         "student": 2,
         "other": 3,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "22.27832",
+        "country": "Hong Kong",
+        "lon": "114.17469"
     },
     {
         "code": "P85",
@@ -725,7 +995,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "17.38405",
+        "country": "India",
+        "lon": "78.45636"
     },
     {
         "code": "P86",
@@ -733,7 +1006,10 @@
         "visitor": 350,
         "student": 31,
         "other": 31,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "33.72148",
+        "country": "Pakistan",
+        "lon": "73.04329"
     },
     {
         "code": "P87",
@@ -741,7 +1017,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "41.01384",
+        "country": "Turkey",
+        "lon": "28.94966"
     },
     {
         "code": "P88",
@@ -749,7 +1028,10 @@
         "visitor": 120,
         "student": 21,
         "other": 5,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-6.21462",
+        "country": "Indonesia",
+        "lon": "106.84513"
     },
     {
         "code": "P89",
@@ -757,7 +1039,10 @@
         "visitor": 125,
         "student": 37,
         "other": 9,
-        "unknown": 125
+        "unknown": 125,
+        "lat": "21.54238",
+        "country": "Saudi Arabia",
+        "lon": "39.19797"
     },
     {
         "code": "P90",
@@ -765,7 +1050,10 @@
         "visitor": 224,
         "student": 21,
         "other": 21,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "31.76904",
+        "country": "Israel",
+        "lon": "35.21633"
     },
     {
         "code": "P91",
@@ -773,7 +1061,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-26.20227",
+        "country": "South Africa",
+        "lon": "28.04363"
     },
     {
         "code": "P228",
@@ -781,7 +1072,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "4.85165",
+        "country": "South Sudan",
+        "lon": "31.58247"
     },
     {
         "code": "P229",
@@ -789,7 +1083,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "34.52813",
+        "country": "Afghanistan",
+        "lon": "69.17233"
     },
     {
         "code": "P93",
@@ -797,7 +1094,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "0.31628",
+        "country": "Uganda",
+        "lon": "32.58219"
     },
     {
         "code": "kaohsiung",
@@ -805,7 +1105,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "22.61626",
+        "country": "Taiwan",
+        "lon": "120.31333"
     },
     {
         "code": "P94",
@@ -813,7 +1116,10 @@
         "visitor": 309,
         "student": 8,
         "other": 7,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "24.8608",
+        "country": "Pakistan",
+        "lon": "67.0104"
     },
     {
         "code": "P95",
@@ -821,7 +1127,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "27.70169",
+        "country": "Nepal",
+        "lon": "85.3206"
     },
     {
         "code": "P96",
@@ -829,7 +1138,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "15.55177",
+        "country": "Sudan",
+        "lon": "32.53241"
     },
     {
         "code": "P97",
@@ -837,7 +1149,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-1.94995",
+        "country": "Rwanda",
+        "lon": "30.05885"
     },
     {
         "code": "P98",
@@ -845,7 +1160,10 @@
         "visitor": 999,
         "student": 1,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-42.97638",
+        "country": "Australia",
+        "lon": "147.30351"
     },
     {
         "code": "P99",
@@ -853,7 +1171,10 @@
         "visitor": 413,
         "student": 221,
         "other": 413,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-4.32758",
+        "country": "Democratic Republic of the Congo",
+        "lon": "15.31357"
     },
     {
         "code": "P100",
@@ -861,7 +1182,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "22.56263",
+        "country": "India",
+        "lon": "88.36304"
     },
     {
         "code": "P101",
@@ -869,7 +1193,10 @@
         "visitor": 3,
         "student": 3,
         "other": 3,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "6.964",
+        "country": "Micronesia",
+        "lon": "158.2062"
     },
     {
         "code": "P102",
@@ -877,7 +1204,10 @@
         "visitor": 4,
         "student": 4,
         "other": 4,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "7.33978",
+        "country": "Palau",
+        "lon": "134.47326"
     },
     {
         "code": "P103",
@@ -885,7 +1215,10 @@
         "visitor": 999,
         "student": 17,
         "other": 21,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "50.0614",
+        "lon": "19.9372",
+        "country": "Poland"
     },
     {
         "code": "P104",
@@ -893,7 +1226,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "3.1412",
+        "country": "Malaysia",
+        "lon": "101.68653"
     },
     {
         "code": "P105",
@@ -901,7 +1237,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "29.375",
+        "lon": "47.98",
+        "country": "Kuwait"
     },
     {
         "code": "P106",
@@ -909,7 +1248,10 @@
         "visitor": 999,
         "student": 12,
         "other": 12,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "50.45466",
+        "country": "Ukraine",
+        "lon": "30.5238"
     },
     {
         "code": "P107",
@@ -917,7 +1259,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-30.74485",
+        "country": "Argentina",
+        "lon": "-59.64566"
     },
     {
         "code": "P108",
@@ -925,7 +1270,10 @@
         "visitor": 369,
         "student": 362,
         "other": 11,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "6.45407",
+        "country": "Nigeria",
+        "lon": "3.39467"
     },
     {
         "code": "lahore",
@@ -933,7 +1281,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "31.558",
+        "country": "Pakistan",
+        "lon": "74.35071"
     },
     {
         "code": "P109",
@@ -941,7 +1292,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "0.39241",
+        "country": "Gabon",
+        "lon": "9.45356"
     },
     {
         "code": "P110",
@@ -949,7 +1303,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-13.96692",
+        "country": "Malawi",
+        "lon": "33.78725"
     },
     {
         "code": "P111",
@@ -957,7 +1314,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-12.04318",
+        "country": "Peru",
+        "lon": "-77.02824"
     },
     {
         "code": "P112",
@@ -965,7 +1325,10 @@
         "visitor": 60,
         "student": 4,
         "other": 28,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "38.71667",
+        "country": "Portugal",
+        "lon": "-9.13333"
     },
     {
         "code": "P113",
@@ -973,7 +1336,10 @@
         "visitor": 999,
         "student": 9,
         "other": 9,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "46.05108",
+        "country": "Slovenia",
+        "lon": "14.50513"
     },
     {
         "code": "lome",
@@ -981,7 +1347,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "6.1319",
+        "lon": "1.2228",
+        "country": "Togo"
     },
     {
         "code": "P115",
@@ -989,7 +1358,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "42.98339",
+        "country": "Canada",
+        "lon": "-81.23304"
     },
     {
         "code": "P116",
@@ -997,7 +1369,10 @@
         "visitor": 35,
         "student": 10,
         "other": 7,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "-8.83682",
+        "country": "Angola",
+        "lon": "13.23432"
     },
     {
         "code": "P117",
@@ -1005,7 +1380,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-15.40669",
+        "country": "Zambia",
+        "lon": "28.28713"
     },
     {
         "code": "P118",
@@ -1013,7 +1391,10 @@
         "visitor": 999,
         "student": 53,
         "other": 999,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "49.61167",
+        "country": "Luxembourg",
+        "lon": "6.13"
     },
     {
         "code": "P119",
@@ -1021,7 +1402,10 @@
         "visitor": 999,
         "student": 92,
         "other": 123,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "4.73245",
+        "country": "Colombia",
+        "lon": "-74.26419"
     },
     {
         "code": "P120",
@@ -1029,7 +1413,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "7.08971",
+        "country": "Marshall Islands",
+        "lon": "171.38027"
     },
     {
         "code": "P121",
@@ -1037,7 +1424,10 @@
         "visitor": 75,
         "student": 7,
         "other": 75,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "3.75578",
+        "country": "Equatorial Guinea",
+        "lon": "8.78166"
     },
     {
         "code": "managua",
@@ -1045,7 +1435,10 @@
         "visitor": 999,
         "student": 7,
         "other": 10,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "12.13282",
+        "country": "Nicaragua",
+        "lon": "-86.2504"
     },
     {
         "code": "P123",
@@ -1053,7 +1446,10 @@
         "visitor": 56,
         "student": 7,
         "other": 7,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "26.22787",
+        "country": "Bahrain",
+        "lon": "50.58565"
     },
     {
         "code": "P124",
@@ -1061,7 +1457,10 @@
         "visitor": 405,
         "student": 122,
         "other": 18,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "14.6042",
+        "country": "Philippines",
+        "lon": "120.9822"
     },
     {
         "code": "P125",
@@ -1069,7 +1468,10 @@
         "visitor": 28,
         "student": 28,
         "other": 28,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "-25.96553",
+        "country": "Mozambique",
+        "lon": "32.58322"
     },
     {
         "code": "marseille",
@@ -1077,7 +1479,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "43.29695",
+        "country": "France",
+        "lon": "5.38107"
     },
     {
         "code": "P126",
@@ -1085,7 +1490,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-29.31667",
+        "country": "Lesotho",
+        "lon": "27.48333"
     },
     {
         "code": "P127",
@@ -1093,7 +1501,10 @@
         "visitor": 205,
         "student": 2,
         "other": 2,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "26.76209",
+        "country": "Mexico",
+        "lon": "-105.58523"
     },
     {
         "code": "P128",
@@ -1101,7 +1512,10 @@
         "visitor": 1,
         "student": 1,
         "other": 1,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-26.31667",
+        "country": "Swaziland",
+        "lon": "31.13333"
     },
     {
         "code": "P129",
@@ -1109,7 +1523,10 @@
         "visitor": 101,
         "student": 16,
         "other": 17,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-37.814",
+        "country": "Australia",
+        "lon": "144.96332"
     },
     {
         "code": "P130",
@@ -1117,7 +1534,10 @@
         "visitor": 434,
         "student": 434,
         "other": 1,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "10.9098",
+        "country": "Philippines",
+        "lon": "124.5376"
     },
     {
         "code": "P131",
@@ -1125,7 +1545,10 @@
         "visitor": 999,
         "student": 7,
         "other": 7,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "19.42847",
+        "country": "Mexico",
+        "lon": "-99.12766"
     },
     {
         "code": "P132",
@@ -1133,7 +1556,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "45.46427",
+        "country": "Italy",
+        "lon": "9.18951"
     },
     {
         "code": "P133",
@@ -1141,7 +1567,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "53.9",
+        "country": "Belarus",
+        "lon": "27.56667"
     },
     {
         "code": "P134",
@@ -1149,7 +1578,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "6.30054",
+        "country": "Liberia",
+        "lon": "-10.7969"
     },
     {
         "code": "P135",
@@ -1157,7 +1589,10 @@
         "visitor": 413,
         "student": 1,
         "other": 2,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "4.87802",
+        "country": "Colombia",
+        "lon": "-72.89575"
     },
     {
         "code": "P136",
@@ -1165,7 +1600,10 @@
         "visitor": 255,
         "student": 29,
         "other": 10,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "-6.61583",
+        "country": "Peru",
+        "lon": "-77.8025"
     },
     {
         "code": "P137",
@@ -1173,7 +1611,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "45.5089",
+        "lon": "-73.5617",
+        "country": "Canada"
     },
     {
         "code": "P138",
@@ -1181,7 +1622,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "55.75222",
+        "country": "Russia",
+        "lon": "37.61556"
     },
     {
         "code": "P139",
@@ -1189,7 +1633,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "18.9667",
+        "lon": "72.8333",
+        "country": "India"
     },
     {
         "code": "P140",
@@ -1197,7 +1644,10 @@
         "visitor": 999,
         "student": 9,
         "other": 999,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "48.13743",
+        "country": "Germany",
+        "lon": "11.57549"
     },
     {
         "code": "P141",
@@ -1205,7 +1655,10 @@
         "visitor": 16,
         "student": 16,
         "other": 16,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "23.58413",
+        "country": "Oman",
+        "lon": "58.40778"
     },
     {
         "code": "P142",
@@ -1213,7 +1666,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "12.11",
+        "lon": "15.05",
+        "country": "Chad"
     },
     {
         "code": "P143",
@@ -1221,7 +1677,10 @@
         "visitor": 999,
         "student": 10,
         "other": 999,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "26.21667",
+        "country": "Japan",
+        "lon": "127.68333"
     },
     {
         "code": "P144",
@@ -1229,7 +1688,10 @@
         "visitor": 999,
         "student": 267,
         "other": 999,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-1.28333",
+        "country": "Kenya",
+        "lon": "36.81667"
     },
     {
         "code": "P145",
@@ -1237,7 +1699,10 @@
         "visitor": 113,
         "student": 63,
         "other": 113,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "40.85216",
+        "country": "Italy",
+        "lon": "14.26811"
     },
     {
         "code": "P146",
@@ -1245,7 +1710,10 @@
         "visitor": 280,
         "student": 28,
         "other": 280,
-        "unknown": 8
+        "unknown": 8,
+        "lat": "25.05823",
+        "country": "Bahamas",
+        "lon": "-77.34306"
     },
     {
         "code": "P147",
@@ -1253,7 +1721,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "28.63576",
+        "country": "India",
+        "lon": "77.22445"
     },
     {
         "code": "P148",
@@ -1261,7 +1732,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "13.51366",
+        "country": "Niger",
+        "lon": "2.1098"
     },
     {
         "code": "P149",
@@ -1269,7 +1743,10 @@
         "visitor": 100,
         "student": 7,
         "other": 100,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "35.17531",
+        "country": "Cyprus",
+        "lon": "33.3642"
     },
     {
         "code": "P150",
@@ -1277,7 +1754,10 @@
         "visitor": 387,
         "student": 3,
         "other": 7,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "38.58629",
+        "country": "Spain",
+        "lon": "-6.74901"
     },
     {
         "code": "P151",
@@ -1285,7 +1765,10 @@
         "visitor": 50,
         "student": 50,
         "other": 50,
-        "unknown": 50
+        "unknown": 50,
+        "lat": "18.08581",
+        "country": "Mauritania",
+        "lon": "-15.9785"
     },
     {
         "code": "P152",
@@ -1293,7 +1776,10 @@
         "visitor": 284,
         "student": 2,
         "other": 2,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "27.47629",
+        "country": "Mexico",
+        "lon": "-99.51639"
     },
     {
         "code": "nur-sultan",
@@ -1301,7 +1787,10 @@
         "visitor": 180,
         "student": 60,
         "other": 30,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "51.1333",
+        "lon": "71.4333",
+        "country": "Kazakhstan"
     },
     {
         "code": "P153",
@@ -1309,7 +1798,10 @@
         "visitor": 20,
         "student": 20,
         "other": 20,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "34.75",
+        "lon": "135.4601",
+        "country": "Japan"
     },
     {
         "code": "P154",
@@ -1317,7 +1809,10 @@
         "visitor": 999,
         "student": 7,
         "other": 7,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "59.91273",
+        "country": "Norway",
+        "lon": "10.74609"
     },
     {
         "code": "P155",
@@ -1325,7 +1820,10 @@
         "visitor": 999,
         "student": 90,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "45.41117",
+        "country": "Canada",
+        "lon": "-75.69812"
     },
     {
         "code": "P156",
@@ -1333,7 +1831,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "12.36566",
+        "country": "Burkina Faso",
+        "lon": "-1.53388"
     },
     {
         "code": "P157",
@@ -1341,7 +1842,10 @@
         "visitor": 999,
         "student": 180,
         "other": 180,
-        "unknown": 180
+        "unknown": 180,
+        "lat": "9.33404",
+        "country": "Panama",
+        "lon": "-79.89172"
     },
     {
         "code": "P158",
@@ -1349,7 +1853,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "5.86638",
+        "country": "Suriname",
+        "lon": "-55.16682"
     },
     {
         "code": "P159",
@@ -1357,7 +1864,10 @@
         "visitor": 300,
         "student": 300,
         "other": 300,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "43.2",
+        "country": "Canada",
+        "lon": "-80.38333"
     },
     {
         "code": "P160",
@@ -1365,7 +1875,10 @@
         "visitor": 2,
         "student": 2,
         "other": 2,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-31.95224",
+        "country": "Australia",
+        "lon": "115.8614"
     },
     {
         "code": "P161",
@@ -1373,7 +1886,10 @@
         "visitor": 23,
         "student": 15,
         "other": 23,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "11.56245",
+        "country": "Cambodia",
+        "lon": "104.91601"
     },
     {
         "code": "P162",
@@ -1381,7 +1897,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "42.44111",
+        "country": "Montenegro",
+        "lon": "19.26361"
     },
     {
         "code": "P164",
@@ -1389,7 +1908,10 @@
         "visitor": 999,
         "student": 5,
         "other": 999,
-        "unknown": 1
+        "unknown": 1,
+        "lat": "18.5425",
+        "lon": "-72.3386",
+        "country": "Haiti"
     },
     {
         "code": "P165",
@@ -1397,7 +1919,10 @@
         "visitor": 16,
         "student": 16,
         "other": 16,
-        "unknown": 8
+        "unknown": 8,
+        "lat": "-20.16194",
+        "country": "Mauritius",
+        "lon": "57.49889"
     },
     {
         "code": "P166",
@@ -1405,7 +1930,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-9.44314",
+        "country": "Papua New Guinea",
+        "lon": "147.17972"
     },
     {
         "code": "P167",
@@ -1413,7 +1941,10 @@
         "visitor": 999,
         "student": 10,
         "other": 10,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "10.6667",
+        "lon": "-61.5167",
+        "country": "Trinidad And Tobago"
     },
     {
         "code": "porto_alegre",
@@ -1421,7 +1952,10 @@
         "visitor": 999,
         "student": 1,
         "other": 999,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-30.03306",
+        "country": "Brazil",
+        "lon": "-51.23"
     },
     {
         "code": "P168",
@@ -1429,7 +1963,10 @@
         "visitor": 14,
         "student": 7,
         "other": 7,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "50.08804",
+        "country": "Czech Republic",
+        "lon": "14.42076"
     },
     {
         "code": "P169",
@@ -1437,7 +1974,10 @@
         "visitor": 316,
         "student": 316,
         "other": 316,
-        "unknown": 30
+        "unknown": 30,
+        "lat": "14.93152",
+        "country": "Cape Verde",
+        "lon": "-23.51254"
     },
     {
         "code": "P231",
@@ -1445,7 +1985,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "42.67272",
+        "country": "Kosovo",
+        "lon": "21.16688"
     },
     {
         "code": "P170",
@@ -1453,7 +1996,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "46.8139",
+        "lon": "-71.2081",
+        "country": "Canada"
     },
     {
         "code": "P171",
@@ -1461,7 +2007,10 @@
         "visitor": 999,
         "student": 3,
         "other": 3,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "-0.22985",
+        "country": "Ecuador",
+        "lon": "-78.52495"
     },
     {
         "code": "P172",
@@ -1469,7 +2018,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "16.8",
+        "lon": "96.15",
+        "country": "Myanmar"
     },
     {
         "code": "P173",
@@ -1477,7 +2029,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-8.05389",
+        "country": "Brazil",
+        "lon": "-34.88111"
     },
     {
         "code": "P174",
@@ -1485,7 +2040,10 @@
         "visitor": 999,
         "student": 90,
         "other": 90,
-        "unknown": 90
+        "unknown": 90,
+        "lat": "64.1475",
+        "lon": "-21.935",
+        "country": "Iceland"
     },
     {
         "code": "P175",
@@ -1493,7 +2051,10 @@
         "visitor": 999,
         "student": 7,
         "other": 999,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "56.946",
+        "country": "Latvia",
+        "lon": "24.10589"
     },
     {
         "code": "P230",
@@ -1501,7 +2062,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-22.9083",
+        "lon": "-43.1964",
+        "country": "Brazil"
     },
     {
         "code": "P177",
@@ -1509,7 +2073,10 @@
         "visitor": 246,
         "student": 45,
         "other": 246,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "24.68773",
+        "country": "Saudi Arabia",
+        "lon": "46.72185"
     },
     {
         "code": "P178",
@@ -1517,7 +2084,10 @@
         "visitor": 999,
         "student": 51,
         "other": 999,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "41.89193",
+        "country": "Italy",
+        "lon": "12.51133"
     },
     {
         "code": "P179",
@@ -1525,7 +2095,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "17.89269",
+        "country": "Philippines",
+        "lon": "121.87125"
     },
     {
         "code": "P180",
@@ -1533,7 +2106,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-31.62487",
+        "country": "Argentina",
+        "lon": "-58.50524"
     },
     {
         "code": "P181",
@@ -1541,7 +2117,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "15.35472",
+        "country": "Yemen",
+        "lon": "44.20667"
     },
     {
         "code": "P182",
@@ -1549,7 +2128,10 @@
         "visitor": 999,
         "student": 115,
         "other": 73,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "-29.19167",
+        "country": "Brazil",
+        "lon": "-54.86722"
     },
     {
         "code": "P183",
@@ -1557,7 +2139,10 @@
         "visitor": 999,
         "student": 2,
         "other": 43,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "6.47282",
+        "country": "Colombia",
+        "lon": "-75.16547"
     },
     {
         "code": "P184",
@@ -1565,7 +2150,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-23.5504",
+        "lon": "-46.6339",
+        "country": "Brazil"
     },
     {
         "code": "P224",
@@ -1573,7 +2161,10 @@
         "visitor": 999,
         "student": 15,
         "other": 15,
-        "unknown": 15
+        "unknown": 15,
+        "lat": "43.06667",
+        "country": "Japan",
+        "lon": "141.35"
     },
     {
         "code": "P185",
@@ -1581,7 +2172,10 @@
         "visitor": 999,
         "student": 10,
         "other": 20,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "43.84864",
+        "country": "Bosnia and Herzegovina",
+        "lon": "18.35644"
     },
     {
         "code": "P186",
@@ -1589,7 +2183,10 @@
         "visitor": 30,
         "student": 15,
         "other": 32,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "37.566",
+        "country": "South Korea",
+        "lon": "126.9784"
     },
     {
         "code": "P187",
@@ -1597,7 +2194,10 @@
         "visitor": 999,
         "student": 2,
         "other": 2,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "31.22222",
+        "country": "China",
+        "lon": "121.45806"
     },
     {
         "code": "P188",
@@ -1605,7 +2205,10 @@
         "visitor": 999,
         "student": 3,
         "other": 999,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "41.79222",
+        "country": "China",
+        "lon": "123.43278"
     },
     {
         "code": "P189",
@@ -1613,7 +2216,10 @@
         "visitor": 71,
         "student": 30,
         "other": 31,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "1.28967",
+        "country": "Singapore",
+        "lon": "103.85007"
     },
     {
         "code": "P190",
@@ -1621,7 +2227,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "41.99646",
+        "country": "North Macedonia",
+        "lon": "21.43141"
     },
     {
         "code": "P191",
@@ -1629,7 +2238,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "42.69751",
+        "country": "Bulgaria",
+        "lon": "23.32415"
     },
     {
         "code": "st_georges",
@@ -1637,7 +2249,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "12.0444",
+        "lon": "-61.7417",
+        "country": "Grenada"
     },
     {
         "code": "P192",
@@ -1645,7 +2260,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "59.95",
+        "lon": "30.3167",
+        "country": "Russia"
     },
     {
         "code": "P193",
@@ -1653,7 +2271,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "59.33258",
+        "country": "Sweden",
+        "lon": "18.0649"
     },
     {
         "code": "P194",
@@ -1661,7 +2282,10 @@
         "visitor": 100,
         "student": 35,
         "other": 35,
-        "unknown": 15
+        "unknown": 15,
+        "lat": "-7.24917",
+        "country": "Indonesia",
+        "lon": "112.75083"
     },
     {
         "code": "P195",
@@ -1669,7 +2293,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-18.14161",
+        "country": "Fiji",
+        "lon": "178.44149"
     },
     {
         "code": "P196",
@@ -1677,7 +2304,10 @@
         "visitor": 176,
         "student": 99,
         "other": 176,
-        "unknown": 10
+        "unknown": 10,
+        "lat": "-33.86785",
+        "country": "Australia",
+        "lon": "151.20732"
     },
     {
         "code": "P197",
@@ -1685,7 +2315,10 @@
         "visitor": 36,
         "student": 32,
         "other": 43,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "25.04776",
+        "country": "Taiwan",
+        "lon": "121.53185"
     },
     {
         "code": "P198",
@@ -1693,7 +2326,10 @@
         "visitor": 999,
         "student": 30,
         "other": 30,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "59.43696",
+        "country": "Estonia",
+        "lon": "24.75353"
     },
     {
         "code": "P199",
@@ -1701,7 +2337,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "41.26465",
+        "country": "Uzbekistan",
+        "lon": "69.21627"
     },
     {
         "code": "P200",
@@ -1709,7 +2348,10 @@
         "visitor": 447,
         "student": 132,
         "other": 41,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "41.69411",
+        "country": "Georgia",
+        "lon": "44.83368"
     },
     {
         "code": "P201",
@@ -1717,7 +2359,10 @@
         "visitor": 492,
         "student": 7,
         "other": 3,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "14.0818",
+        "country": "Honduras",
+        "lon": "-87.20681"
     },
     {
         "code": "P202",
@@ -1725,7 +2370,10 @@
         "visitor": 391,
         "student": 3,
         "other": 3,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "32.08088",
+        "country": "Israel",
+        "lon": "34.78057"
     },
     {
         "code": "tijuana",
@@ -1733,7 +2381,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "32.5027",
+        "country": "Mexico",
+        "lon": "-117.00371"
     },
     {
         "code": "P203",
@@ -1741,7 +2392,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "32.5027",
+        "country": "Mexico",
+        "lon": "-117.00371"
     },
     {
         "code": "P204",
@@ -1749,7 +2403,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "41.3275",
+        "country": "Albania",
+        "lon": "19.81889"
     },
     {
         "code": "P205",
@@ -1757,7 +2414,10 @@
         "visitor": 999,
         "student": 16,
         "other": 30,
-        "unknown": 4
+        "unknown": 4,
+        "lat": "35.6895",
+        "country": "Japan",
+        "lon": "139.69171"
     },
     {
         "code": "P206",
@@ -1765,7 +2425,10 @@
         "visitor": 999,
         "student": 38,
         "other": 999,
-        "unknown": 5
+        "unknown": 5,
+        "lat": "-33.01357",
+        "country": "Australia",
+        "lon": "151.59373"
     },
     {
         "code": "P207",
@@ -1773,7 +2436,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "34.43352",
+        "country": "Lebanon",
+        "lon": "35.84415"
     },
     {
         "code": "P208",
@@ -1781,7 +2447,10 @@
         "visitor": 30,
         "student": 10,
         "other": 10,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "36.81897",
+        "country": "Tunisia",
+        "lon": "10.16579"
     },
     {
         "code": "P209",
@@ -1789,7 +2458,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "47.9203",
+        "lon": "106.9172",
+        "country": "Mongolia"
     },
     {
         "code": "usun-new_york",
@@ -1797,7 +2469,10 @@
         "visitor": 7,
         "student": 7,
         "other": 7,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "40.7834",
+        "lon": "-73.9662",
+        "country": "United States Of America (USA)"
     },
     {
         "code": "P210",
@@ -1805,7 +2480,10 @@
         "visitor": 60,
         "student": 45,
         "other": 60,
-        "unknown": 7
+        "unknown": 7,
+        "lat": "35.89972",
+        "country": "Malta",
+        "lon": "14.51472"
     },
     {
         "code": "P211",
@@ -1813,7 +2491,10 @@
         "visitor": 999,
         "student": 56,
         "other": 999,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "49.24966",
+        "country": "Canada",
+        "lon": "-123.11934"
     },
     {
         "code": "P212",
@@ -1821,7 +2502,10 @@
         "visitor": 999,
         "student": 6,
         "other": 999,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "48.20849",
+        "country": "Austria",
+        "lon": "16.37208"
     },
     {
         "code": "P213",
@@ -1829,7 +2513,10 @@
         "visitor": 6,
         "student": 6,
         "other": 6,
-        "unknown": 3
+        "unknown": 3,
+        "lat": "17.96667",
+        "country": "Laos",
+        "lon": "102.6"
     },
     {
         "code": "P214",
@@ -1837,7 +2524,10 @@
         "visitor": 999,
         "student": 6,
         "other": 60,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "54.68916",
+        "country": "Lithuania",
+        "lon": "25.2798"
     },
     {
         "code": "P215",
@@ -1845,7 +2535,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "43.10562",
+        "country": "Russia",
+        "lon": "131.87353"
     },
     {
         "code": "P216",
@@ -1853,7 +2546,10 @@
         "visitor": 999,
         "student": 17,
         "other": 10,
-        "unknown": 2
+        "unknown": 2,
+        "lat": "52.22977",
+        "country": "Poland",
+        "lon": "21.01178"
     },
     {
         "code": "P217",
@@ -1861,7 +2557,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "-22.55941",
+        "country": "Namibia",
+        "lon": "17.08323"
     },
     {
         "code": "P218",
@@ -1869,7 +2568,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "3.8578",
+        "lon": "11.5181",
+        "country": "Cameroon"
     },
     {
         "code": "yekaterinburg",
@@ -1877,7 +2579,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "56.8519",
+        "country": "Russia",
+        "lon": "60.6122"
     },
     {
         "code": "P220",
@@ -1885,7 +2590,10 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 14
+        "unknown": 14,
+        "lat": "40.18111",
+        "country": "Armenia",
+        "lon": "44.51361"
     },
     {
         "code": "P221",
@@ -1893,6 +2601,9 @@
         "visitor": 999,
         "student": 999,
         "other": 999,
-        "unknown": 999
+        "unknown": 999,
+        "lat": "45.81444",
+        "country": "Croatia",
+        "lon": "15.97798"
     }
 ]
